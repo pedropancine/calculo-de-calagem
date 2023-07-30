@@ -16,10 +16,12 @@ Compatibilidade com Diferentes Culturas: O projeto oferece suporte para diversas
 Para utilizar nossa ferramenta de Automatização do Cálculo de Calagem, basta seguir os passos abaixo:
 
 1 - Clone este repositório em sua máquina local utilizando o seguinte comando:
-'''git clone https://github.com/seu-usuario/calculo-de-calagem.git'''
+
+**git clone https://github.com/seu-usuario/calculo-de-calagem.git**
 
 2 - Navegue até o diretório do projeto:
-'''cd automatizacao-calagem'''
+
+**cd automatizacao-calagem**
 
 3 - Execute a aplicação e preencha as informações solicitadas sobre a cultura e o solo.
 
