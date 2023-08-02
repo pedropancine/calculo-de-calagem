@@ -42,6 +42,6 @@ while True:
     f = 100/prnt
 
     NC = ((v2 - v)/100) * T * f
-    print(f'\033[42m'+'A necessidade de calagem do Sr(a). {produtor} é de {NC:.2f} t/ha'+'\033[0;0m')
+    print('\033[42m'+f'A necessidade de calagem do Sr(a). {produtor} é de {NC:.2f} t/ha'+'\033[0;0m')
     break
 # Foram gastas 5 horas e 3 minutos nesse script
